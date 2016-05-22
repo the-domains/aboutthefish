@@ -2,6 +2,7 @@ name: About The Fish
 favicon: null
 layout_spectrum: 0.09570466983132064
 typography_spectrum: 0.6361428964883089
+title: About The Fish
 cta:
   domain: null
   bucket: null
